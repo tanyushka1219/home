@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #3CB371  ;
+    padding: 10px ;
+}
+header img {
+    border: 2px solid #008080 ;
+
+}
+header b{
+    color: aliceblue;
+    font-size:  24px;
+
+}
+header a {
+    background-color: blanchedalmond;
+    border-radius: 5px ;
+    text-decoration: none ;
+    color: black ;
+    padding: 5px ;
+}
+body {
+    background-color: #a4f1a4	 ;
+
+}
+
+main h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+ text-align: center;
+ 
+}
+footer p{
+    border: 2px solid #234d1f ;
+}
+nav a {
+    border: 2px solid #0b7a43 ;
+    background-color: white;
+    text-decoration: none ;
